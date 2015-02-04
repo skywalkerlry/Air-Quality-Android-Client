@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/F:/AirQuality/app/build/intermediates/exploded-aar/com.github.sd6352051.niftydialogeffects/niftydialogeffects/1.0.0/res/values-w720dp-v13/values.xml -->
+    <eat-comment />
+
+    <dimen name="dialog_padding">120dp</dimen>
+
+</resources>

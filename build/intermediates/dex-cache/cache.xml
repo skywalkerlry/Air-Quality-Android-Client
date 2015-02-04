@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="F:\AirQuality\app\build\intermediates\pre-dexed\debug\gson-2.2.4-33bba2664a7942c8dcabad2ae4c726b3dda29848.jar"
+        jar="C:\Users\lry\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="F:\AirQuality\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-a042114e3ae5d8387c56323662620ce8b1cd4dd2.jar"
+        jar="F:\AirQuality\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7"/>
+    <item
+        dex="F:\AirQuality\app\build\intermediates\pre-dexed\debug\classes-0eb4c0733e753d2bef00d84c3ca02dfa7632903b.jar"
+        jar="F:\AirQuality\app\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49"/>
+    <item
+        dex="F:\AirQuality\app\build\intermediates\pre-dexed\debug\classes-3c13b1bcbf4e382be55dd299205fb4f30453046d.jar"
+        jar="F:\AirQuality\app\build\intermediates\exploded-aar\com.cardiomood.android\android-widgets\0.1.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c05b677d8aca4e437294460acbc6f4d4bd9cfa0c"/>
+    <item
+        dex="F:\AirQuality\app\build\intermediates\pre-dexed\debug\xclcharts-1a49d07f2193ba156730336892a7a6c26e787665.jar"
+        jar="F:\AirQuality\app\libs\xclcharts.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a9e14865f1bcffcbf22835519df95fecb4c65608"/>
+    <item
+        dex="F:\AirQuality\app\build\intermediates\pre-dexed\debug\GraphView-3.1.3-d950a483c33375cb1a503d702b5da461fa87100e.jar"
+        jar="F:\AirQuality\app\libs\GraphView-3.1.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="672e4a5d8906ab21665dcc08c1f7edb6efd6f903"/>
+    <item
+        dex="F:\AirQuality\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-10899f6c61915a2678d291c36bef4cbdab6b181a.jar"
+        jar="F:\AirQuality\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="F:\AirQuality\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-98b3f8e8cf59f39751f68ca2a730669a976d82dc.jar"
+        jar="D:\android studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="F:\AirQuality\app\build\intermediates\pre-dexed\debug\classes-2259fe7c3f1a5162e86e376b7c18647df5cd6422.jar"
+        jar="F:\AirQuality\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="F:\AirQuality\app\build\intermediates\pre-dexed\debug\classes-f5888e685b040bde0dedc4e5afa13d80de8a3282.jar"
+        jar="F:\AirQuality\app\build\intermediates\exploded-aar\com.github.sd6352051.niftydialogeffects\niftydialogeffects\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f6e011916db951e72f3a2be65cfb864bf5408035"/>
+
+</pre-dex-items>

@@ -1,0 +1,21 @@
+<resources>
+
+    <!--
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <style name="MySherlock" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionOverflowButtonStyle">@style/MyActionButtonOverflow</item>
+    </style>
+    <style name="MyActionButtonOverflow" parent="@android:style/Widget.Holo.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_action_image_filter_vintage</item>
+    </style>
+
+    <!--<style name="ActionButton" parent="@android:style/Widget.Holo.Light.ActionButton"></style>-->
+
+  <!--  <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        &lt;!&ndash; API 14 theme customizations can go here. &ndash;&gt;
+    </style>-->
+
+</resources>

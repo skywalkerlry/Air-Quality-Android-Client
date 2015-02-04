@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="1.0.0" >
+        <source path="F:\AirQuality\app\build\intermediates\exploded-aar\com.github.sd6352051.niftydialogeffects\niftydialogeffects\1.0.0\assets" />
+    </dataSet>
+    <dataSet config="0.1.1" >
+        <source path="F:\AirQuality\app\build\intermediates\exploded-aar\com.cardiomood.android\android-widgets\0.1.1\assets" />
+    </dataSet>
+    <dataSet config="4.4.0" >
+        <source path="F:\AirQuality\app\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\assets" />
+    </dataSet>
+    <dataSet config="20.0.0" >
+        <source path="F:\AirQuality\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="F:\AirQuality\app\src\main\assets" >
+            <file
+                name="cities.json"
+                path="F:\AirQuality\app\src\main\assets\cities.json" />
+            <file
+                name="detected_cities.txt"
+                path="F:\AirQuality\app\src\main\assets\detected_cities.txt" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="F:\AirQuality\app\src\debug\assets" />
+    </dataSet>
+
+</merger>
